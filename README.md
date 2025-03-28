@@ -25,3 +25,16 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Angular Todo App
+
+This is a simple Todo application built with Angular and Flask.
+
+## 📸 Screenshot
+
+![Homepage Screenshot](src/assets/screenshots/first.png)
+![Add Task Screenshot](src/assert/screenshort/addtask1.png)
+![Add Task Screenshot](src/assert/screenshort/addtask2.png)
+![Delete Task Screenshot](src/assert/screenshort/deletetask.png)
+![Complete Task Screenshot](src/assert/screenshort/complete-task1.png)
+![Complete Task Screenshot](src/assert/screenshort/completebuttontask.png)
